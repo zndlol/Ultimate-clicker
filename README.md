@@ -1,2 +1,8 @@
 # Ultimate-clicker
-Ultimate Clicker —  is a graphical interface application for automatically clicking  keys and mouse buttons. The program allows you to configure the auto-clicker with  a specified interval and control it using a hotke
+Supports both keyboard keys and mouse buttons (LMB/RMB).
+
+The interactive mini-keyboard and mouse icon in the interface are highlighted when a click is triggered.
+
+Interval settings: Fine-tune the delay between clicks in milliseconds.
+
+Toggle the clicker on and off by pressing F7
